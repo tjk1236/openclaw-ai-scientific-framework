@@ -368,5 +368,32 @@
       "preview": "nano-banana-pro.md\n222.6k\n1\n2\n3\n4\nexport nano-banana-pro\nfrom \"openclaw/openclaw\"\nGenerate or edit i"
     },
     "details": "// Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro)."
+  },
+  {
+    "timestamp": "2026-02-25T14:06:38.175Z",
+    "hour": 22,
+    "category": "🎬 视频/图片",
+    "searchQuery": "generate",
+    "skillLearned": {
+      "name": "nano-banana-pro",
+      "stars": "222.6k",
+      "link": "https://skillsmp.com/skills/openclaw-openclaw-skills-nano-banana-pro-skill-md",
+      "path": "openclaw-openclaw-skills-nano-banana-pro-skill-md",
+      "preview": "nano-banana-pro.md\n222.6k\n1\n2\n3\n4\nexport nano-banana-pro\nfrom \"openclaw/openclaw\"\nGenerate or edit i"
+    },
+    "details": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot."
+  },
+  {
+    "timestamp": "2026-02-25T22:15:28.157011",
+    "hour": 22,
+    "category": "🧠 系统优化",
+    "searchQuery": "memory optimization",
+    "skillLearned": {
+      "name": "memory-optimization",
+      "stars": "手动学习",
+      "note": "记忆优化，减少Token消耗"
+    },
+    "details": "用户手动触发学习 - 记忆优化技能，用于分层存储、智能摘要、结构化存储",
+    "manual": true
   }
 ]
