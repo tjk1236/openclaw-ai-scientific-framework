@@ -1065,5 +1065,17 @@
       "source": "awesome-openclaw-skills"
     },
     "details": "# agent-reflect\n\n## \u7c7b\u522b\n\ud83d\udcca \u6570\u636e\u5206\u6790\n\n## \u63cf\u8ff0\nSelf-improvement through conversation analysis.\n\n## \u6765\u6e90\n\u5b98\u65b9\u6280\u80fd\u5e93: https://github.com/VoltAgent/awesome-openclaw-skills\n\n## \u5b89\u88c5\u65b9\u5f0f\n```bash\nnpx clawhub@latest install agent-reflect\n```\n\n\u6216\u8005\u76f4\u63a5\u590d\u5236\u6280\u80fd\u6587\u4ef6\u5939\u5230:\n- Global: `~/.openclaw/skills/`\n- Workspace: `<project>/skills/`\n\n## \u5b98\u65b9\u94fe\u63a5\nhttps://github.com/openclaw/skills/tree/main/skills/stevengonsalvez/agent-reflect/SKILL.md\n"
+  },
+  {
+    "timestamp": "2026-02-27T04:00:02.716593",
+    "hour": 4,
+    "category": "\ud83c\udfac \u89c6\u9891/\u56fe\u7247",
+    "skillLearned": {
+      "name": "quit-caffeine",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/jhillin8/quit-caffeine/SKILL.md",
+      "description": "Reduce or quit caffeine with withdrawal tracking, tapering",
+      "source": "awesome-openclaw-skills"
+    },
+    "details": "# quit-caffeine\n\n## \u7c7b\u522b\n\ud83c\udfac \u89c6\u9891/\u56fe\u7247\n\n## \u63cf\u8ff0\nReduce or quit caffeine with withdrawal tracking, tapering\n\n## \u6765\u6e90\n\u5b98\u65b9\u6280\u80fd\u5e93: https://github.com/VoltAgent/awesome-openclaw-skills\n\n## \u5b89\u88c5\u65b9\u5f0f\n```bash\nnpx clawhub@latest install quit-caffeine\n```\n\n\u6216\u8005\u76f4\u63a5\u590d\u5236\u6280\u80fd\u6587\u4ef6\u5939\u5230:\n- Global: `~/.openclaw/skills/`\n- Workspace: `<project>/skills/`\n\n## \u5b98\u65b9\u94fe\u63a5\nhttps://github.com/openclaw/skills/tree/main/skills/jhillin8/quit-caffeine/SKILL.md\n"
   }
 ]
