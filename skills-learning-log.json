@@ -2,10 +2,10 @@
   {
     "timestamp": "2026-02-24T09:31:57.508Z",
     "hour": 17,
-    "category": "\u6570\u636e\u5206\u6790",
+    "category": "数据分析",
     "searchQuery": "data",
     "skillLearned": {
-      "name": "\u672a\u627e\u5230",
+      "name": "未找到",
       "stars": "N/A"
     },
     "details": ""
@@ -13,7 +13,7 @@
   {
     "timestamp": "2026-02-24T09:34:08.969Z",
     "hour": 17,
-    "category": "\u6570\u636e\u5206\u6790",
+    "category": "数据分析",
     "searchQuery": "excel",
     "skillLearned": {
       "name": "verify.md",
@@ -26,7 +26,7 @@
   {
     "timestamp": "2026-02-24T09:36:59.724Z",
     "hour": 17,
-    "category": "\ud83d\udcca \u6570\u636e\u5206\u6790",
+    "category": "📊 数据分析",
     "searchQuery": "usage",
     "skillLearned": {
       "name": "gh-issues",
@@ -40,7 +40,7 @@
   {
     "timestamp": "2026-02-24T10:00:01.759Z",
     "hour": 18,
-    "category": "\ud83c\udfac \u89c6\u9891/\u56fe\u7247",
+    "category": "🎬 视频/图片",
     "searchQuery": "photo",
     "skillLearned": {
       "name": "googlephotos-automation",
@@ -54,7 +54,7 @@
   {
     "timestamp": "2026-02-24T11:00:01.191Z",
     "hour": 19,
-    "category": "\u270d\ufe0f \u5185\u5bb9\u521b\u4f5c",
+    "category": "✍️ 内容创作",
     "searchQuery": "copy",
     "skillLearned": {
       "name": "hygiene",
@@ -68,7 +68,7 @@
   {
     "timestamp": "2026-02-24T12:00:01.771Z",
     "hour": 20,
-    "category": "\ud83c\udfac \u89c6\u9891/\u56fe\u7247",
+    "category": "🎬 视频/图片",
     "searchQuery": "ai",
     "skillLearned": {
       "name": "prompt-lookup",
@@ -82,7 +82,7 @@
   {
     "timestamp": "2026-02-24T13:00:01.964Z",
     "hour": 21,
-    "category": "\u2699\ufe0f \u81ea\u52a8\u5316",
+    "category": "⚙️ 自动化",
     "searchQuery": "github",
     "skillLearned": {
       "name": "github",
@@ -96,7 +96,7 @@
   {
     "timestamp": "2026-02-24T16:00:01.492Z",
     "hour": 0,
-    "category": "\ud83c\udfac \u89c6\u9891/\u56fe\u7247",
+    "category": "🎬 视频/图片",
     "searchQuery": "frame",
     "skillLearned": {
       "name": "camsnap",
@@ -110,7 +110,7 @@
   {
     "timestamp": "2026-02-24T17:00:02.223Z",
     "hour": 1,
-    "category": "\u270d\ufe0f \u5185\u5bb9\u521b\u4f5c",
+    "category": "✍️ 内容创作",
     "searchQuery": "social",
     "skillLearned": {
       "name": "content-creator",
@@ -124,7 +124,7 @@
   {
     "timestamp": "2026-02-25T01:59:28.489Z",
     "hour": 9,
-    "category": "\u2699\ufe0f \u81ea\u52a8\u5316",
+    "category": "⚙️ 自动化",
     "searchQuery": "github",
     "skillLearned": {
       "name": "github",
@@ -138,7 +138,7 @@
   {
     "timestamp": "2026-02-25T02:00:03.053Z",
     "hour": 10,
-    "category": "\ud83c\udfac \u89c6\u9891/\u56fe\u7247",
+    "category": "🎬 视频/图片",
     "searchQuery": "generate",
     "skillLearned": {
       "name": "nano-banana-pro",
@@ -152,7 +152,7 @@
   {
     "timestamp": "2026-02-25T02:00:07.318Z",
     "hour": 10,
-    "category": "\ud83c\udfac \u89c6\u9891/\u56fe\u7247",
+    "category": "🎬 视频/图片",
     "searchQuery": "frame",
     "skillLearned": {
       "name": "camsnap",
@@ -166,7 +166,7 @@
   {
     "timestamp": "2026-02-25T02:03:34.055Z",
     "hour": 10,
-    "category": "\ud83c\udfac \u89c6\u9891/\u56fe\u7247",
+    "category": "🎬 视频/图片",
     "searchQuery": "ai",
     "skillLearned": {
       "name": "prompt-lookup",
@@ -180,7 +180,7 @@
   {
     "timestamp": "2026-02-25T02:11:43.189Z",
     "hour": 10,
-    "category": "\ud83c\udfac \u89c6\u9891/\u56fe\u7247",
+    "category": "🎬 视频/图片",
     "searchQuery": "camera",
     "skillLearned": {
       "name": "camsnap",
@@ -194,7 +194,7 @@
   {
     "timestamp": "2026-02-25T10:50:31.186Z",
     "hour": 18,
-    "category": "\ud83c\udfac \u89c6\u9891/\u56fe\u7247",
+    "category": "🎬 视频/图片",
     "searchQuery": "ai",
     "skillLearned": {
       "name": "prompt-lookup",
@@ -208,7 +208,7 @@
   {
     "timestamp": "2026-02-25T11:00:02.815Z",
     "hour": 19,
-    "category": "\u270d\ufe0f \u5185\u5bb9\u521b\u4f5c",
+    "category": "✍️ 内容创作",
     "searchQuery": "content",
     "skillLearned": {
       "name": "content-design",
@@ -222,7 +222,7 @@
   {
     "timestamp": "2026-02-25T11:02:18.388Z",
     "hour": 19,
-    "category": "\u270d\ufe0f \u5185\u5bb9\u521b\u4f5c",
+    "category": "✍️ 内容创作",
     "searchQuery": "article",
     "skillLearned": {
       "name": "write-docs",
@@ -236,7 +236,7 @@
   {
     "timestamp": "2026-02-25T12:00:02.594Z",
     "hour": 20,
-    "category": "\ud83c\udfac \u89c6\u9891/\u56fe\u7247",
+    "category": "🎬 视频/图片",
     "searchQuery": "generate",
     "skillLearned": {
       "name": "nano-banana-pro",
@@ -250,7 +250,7 @@
   {
     "timestamp": "2026-02-25T12:06:13.164Z",
     "hour": 20,
-    "category": "\ud83c\udfac \u89c6\u9891/\u56fe\u7247",
+    "category": "🎬 视频/图片",
     "searchQuery": "camera",
     "skillLearned": {
       "name": "camsnap",
@@ -264,7 +264,7 @@
   {
     "timestamp": "2026-02-25T13:00:02.284Z",
     "hour": 21,
-    "category": "\u2699\ufe0f \u81ea\u52a8\u5316",
+    "category": "⚙️ 自动化",
     "searchQuery": "bot",
     "skillLearned": {
       "name": "accessibility",
@@ -278,7 +278,7 @@
   {
     "timestamp": "2026-02-25T13:05:15.541Z",
     "hour": 21,
-    "category": "\u2699\ufe0f \u81ea\u52a8\u5316",
+    "category": "⚙️ 自动化",
     "searchQuery": "workflow",
     "skillLearned": {
       "name": "prose",
@@ -292,7 +292,7 @@
   {
     "timestamp": "2026-02-25T13:53:08.834Z",
     "hour": 21,
-    "category": "\u2699\ufe0f \u81ea\u52a8\u5316",
+    "category": "⚙️ 自动化",
     "searchQuery": "script",
     "skillLearned": {
       "name": "goplaces",
@@ -306,59 +306,59 @@
   {
     "timestamp": "2026-02-25T21:58:03.980281",
     "hour": 21,
-    "category": "\ud83d\udee0\ufe0f \u6587\u4ef6\u5904\u7406",
+    "category": "🛠️ 文件处理",
     "searchQuery": "image",
     "skillLearned": {
       "name": "image-processing",
-      "stars": "\u624b\u52a8\u5b66\u4e60",
-      "note": "\u56fe\u7247\u538b\u7f29/\u8f6c\u6362/\u4f18\u5316\u5904\u7406"
+      "stars": "手动学习",
+      "note": "图片压缩/转换/优化处理"
     },
-    "details": "\u7528\u6237\u624b\u52a8\u89e6\u53d1\u5b66\u4e60 - \u56fe\u7247\u5904\u7406\u6280\u80fd",
+    "details": "用户手动触发学习 - 图片处理技能",
     "manual": true
   },
   {
     "timestamp": "2026-02-25T21:58:03.980292",
     "hour": 21,
-    "category": "\ud83d\udee0\ufe0f \u6587\u4ef6\u5904\u7406",
+    "category": "🛠️ 文件处理",
     "searchQuery": "file-management",
     "skillLearned": {
       "name": "file-management",
-      "stars": "\u624b\u52a8\u5b66\u4e60",
-      "note": "\u6279\u91cf\u91cd\u547d\u540d/\u6587\u4ef6\u6574\u7406"
+      "stars": "手动学习",
+      "note": "批量重命名/文件整理"
     },
-    "details": "\u7528\u6237\u624b\u52a8\u89e6\u53d1\u5b66\u4e60 - \u6587\u4ef6\u7ba1\u7406\u6280\u80fd",
+    "details": "用户手动触发学习 - 文件管理技能",
     "manual": true
   },
   {
     "timestamp": "2026-02-25T21:58:03.980294",
     "hour": 21,
-    "category": "\ud83d\udee0\ufe0f \u6587\u4ef6\u5904\u7406",
+    "category": "🛠️ 文件处理",
     "searchQuery": "pandoc",
     "skillLearned": {
       "name": "pandoc-convert",
-      "stars": "\u624b\u52a8\u5b66\u4e60",
-      "note": "\u6587\u6863\u683c\u5f0f\u8f6c\u6362(md/pdf/docx)"
+      "stars": "手动学习",
+      "note": "文档格式转换(md/pdf/docx)"
     },
-    "details": "\u7528\u6237\u624b\u52a8\u89e6\u53d1\u5b66\u4e60 - \u6587\u6863\u8f6c\u6362\u6280\u80fd",
+    "details": "用户手动触发学习 - 文档转换技能",
     "manual": true
   },
   {
     "timestamp": "2026-02-25T21:58:03.980295",
     "hour": 21,
-    "category": "\ud83d\udee0\ufe0f \u6587\u4ef6\u5904\u7406",
+    "category": "🛠️ 文件处理",
     "searchQuery": "docx",
     "skillLearned": {
       "name": "docx-processing",
-      "stars": "\u624b\u52a8\u5b66\u4e60",
-      "note": "Word\u6587\u6863\u8bfb\u5199\u5904\u7406"
+      "stars": "手动学习",
+      "note": "Word文档读写处理"
     },
-    "details": "\u7528\u6237\u624b\u52a8\u89e6\u53d1\u5b66\u4e60 - Word\u5904\u7406\u6280\u80fd",
+    "details": "用户手动触发学习 - Word处理技能",
     "manual": true
   },
   {
     "timestamp": "2026-02-25T14:00:02.017Z",
     "hour": 22,
-    "category": "\ud83c\udfac \u89c6\u9891/\u56fe\u7247",
+    "category": "🎬 视频/图片",
     "searchQuery": "generate",
     "skillLearned": {
       "name": "nano-banana-pro",
@@ -372,7 +372,7 @@
   {
     "timestamp": "2026-02-25T14:06:38.175Z",
     "hour": 22,
-    "category": "\ud83c\udfac \u89c6\u9891/\u56fe\u7247",
+    "category": "🎬 视频/图片",
     "searchQuery": "generate",
     "skillLearned": {
       "name": "nano-banana-pro",
@@ -386,20 +386,20 @@
   {
     "timestamp": "2026-02-25T22:15:28.157011",
     "hour": 22,
-    "category": "\ud83e\udde0 \u7cfb\u7edf\u4f18\u5316",
+    "category": "🧠 系统优化",
     "searchQuery": "memory optimization",
     "skillLearned": {
       "name": "memory-optimization",
-      "stars": "\u624b\u52a8\u5b66\u4e60",
-      "note": "\u8bb0\u5fc6\u4f18\u5316\uff0c\u51cf\u5c11Token\u6d88\u8017"
+      "stars": "手动学习",
+      "note": "记忆优化，减少Token消耗"
     },
-    "details": "\u7528\u6237\u624b\u52a8\u89e6\u53d1\u5b66\u4e60 - \u8bb0\u5fc6\u4f18\u5316\u6280\u80fd\uff0c\u7528\u4e8e\u5206\u5c42\u5b58\u50a8\u3001\u667a\u80fd\u6458\u8981\u3001\u7ed3\u6784\u5316\u5b58\u50a8",
+    "details": "用户手动触发学习 - 记忆优化技能，用于分层存储、智能摘要、结构化存储",
     "manual": true
   },
   {
     "timestamp": "2026-02-25T15:00:02.004Z",
     "hour": 23,
-    "category": "\ud83d\udcca \u6570\u636e\u5206\u6790",
+    "category": "📊 数据分析",
     "searchQuery": "usage",
     "skillLearned": {
       "name": "model-usage",
@@ -413,7 +413,7 @@
   {
     "timestamp": "2026-02-25T16:00:02.104Z",
     "hour": 0,
-    "category": "\ud83c\udfac \u89c6\u9891/\u56fe\u7247",
+    "category": "🎬 视频/图片",
     "searchQuery": "comfyui",
     "skillLearned": {
       "name": "writing-playwright-tests",
@@ -427,10 +427,10 @@
   {
     "timestamp": "2026-02-25T17:00:01.560Z",
     "hour": 1,
-    "category": "\u270d\ufe0f \u5185\u5bb9\u521b\u4f5c",
+    "category": "✍️ 内容创作",
     "searchQuery": "ai",
     "skillLearned": {
-      "name": "\u641c\u7d22\u4e2d",
+      "name": "搜索中",
       "stars": "-",
       "link": ""
     },
@@ -439,10 +439,10 @@
   {
     "timestamp": "2026-02-25T18:00:01.745Z",
     "hour": 2,
-    "category": "\ud83c\udfac \u89c6\u9891/\u56fe\u7247",
+    "category": "🎬 视频/图片",
     "searchQuery": "ai",
     "skillLearned": {
-      "name": "\u641c\u7d22\u4e2d",
+      "name": "搜索中",
       "stars": "-",
       "link": ""
     },
@@ -451,10 +451,10 @@
   {
     "timestamp": "2026-02-25T19:00:01.440Z",
     "hour": 3,
-    "category": "\u2699\ufe0f \u81ea\u52a8\u5316",
+    "category": "⚙️ 自动化",
     "searchQuery": "ai",
     "skillLearned": {
-      "name": "\u641c\u7d22\u4e2d",
+      "name": "搜索中",
       "stars": "-",
       "link": ""
     },
@@ -463,10 +463,10 @@
   {
     "timestamp": "2026-02-25T20:00:01.595Z",
     "hour": 4,
-    "category": "\ud83c\udfac \u89c6\u9891/\u56fe\u7247",
+    "category": "🎬 视频/图片",
     "searchQuery": "ai",
     "skillLearned": {
-      "name": "\u641c\u7d22\u4e2d",
+      "name": "搜索中",
       "stars": "-",
       "link": ""
     },
@@ -475,10 +475,10 @@
   {
     "timestamp": "2026-02-25T21:00:01.142Z",
     "hour": 5,
-    "category": "\ud83d\udcca \u6570\u636e\u5206\u6790",
+    "category": "📊 数据分析",
     "searchQuery": "ai",
     "skillLearned": {
-      "name": "\u641c\u7d22\u4e2d",
+      "name": "搜索中",
       "stars": "-",
       "link": ""
     },
@@ -487,10 +487,10 @@
   {
     "timestamp": "2026-02-25T22:00:01.307Z",
     "hour": 6,
-    "category": "\ud83c\udfac \u89c6\u9891/\u56fe\u7247",
+    "category": "🎬 视频/图片",
     "searchQuery": "ai",
     "skillLearned": {
-      "name": "\u641c\u7d22\u4e2d",
+      "name": "搜索中",
       "stars": "-",
       "link": ""
     },
@@ -499,10 +499,10 @@
   {
     "timestamp": "2026-02-25T23:00:01.712Z",
     "hour": 7,
-    "category": "\u270d\ufe0f \u5185\u5bb9\u521b\u4f5c",
+    "category": "✍️ 内容创作",
     "searchQuery": "ai",
     "skillLearned": {
-      "name": "\u641c\u7d22\u4e2d",
+      "name": "搜索中",
       "stars": "-",
       "link": ""
     },
@@ -511,10 +511,10 @@
   {
     "timestamp": "2026-02-26T00:00:00.870Z",
     "hour": 8,
-    "category": "\ud83c\udfac \u89c6\u9891/\u56fe\u7247",
+    "category": "🎬 视频/图片",
     "searchQuery": "ai",
     "skillLearned": {
-      "name": "\u641c\u7d22\u4e2d",
+      "name": "搜索中",
       "stars": "-",
       "link": ""
     },
@@ -523,7 +523,7 @@
   {
     "timestamp": "2026-02-26T03:32:08.220Z",
     "hour": 11,
-    "category": "\ud83d\udcca \u6570\u636e\u5206\u6790",
+    "category": "📊 数据分析",
     "skillLearned": {
       "name": "openclaw openclaw skills model usage skill md",
       "path": "openclaw-openclaw-skills-model-usage-skill-md",
@@ -538,7 +538,7 @@
   {
     "timestamp": "2026-02-26T03:37:22.876Z",
     "hour": 11,
-    "category": "\ud83d\udce6 \u5176\u4ed6",
+    "category": "📦 其他",
     "skillLearned": {
       "name": "openclaw openclaw skills sonoscli skill md",
       "path": "openclaw-openclaw-skills-sonoscli-skill-md",
@@ -553,7 +553,7 @@
   {
     "timestamp": "2026-02-26T03:38:29.368Z",
     "hour": 11,
-    "category": "\ud83d\udce6 \u5176\u4ed6",
+    "category": "📦 其他",
     "skillLearned": {
       "name": "openclaw openclaw extensions feishu skills feishu drive skill md",
       "path": "openclaw-openclaw-extensions-feishu-skills-feishu-drive-skill-md",
@@ -568,7 +568,7 @@
   {
     "timestamp": "2026-02-26T04:52:23.528Z",
     "hour": 12,
-    "category": "\ud83d\udce6 \u5176\u4ed6",
+    "category": "📦 其他",
     "skillLearned": {
       "name": "openclaw openclaw skills discord skill md",
       "path": "openclaw-openclaw-skills-discord-skill-md",
@@ -583,7 +583,7 @@
   {
     "timestamp": "2026-02-26T04:53:14.648Z",
     "hour": 12,
-    "category": "\ud83d\udce6 \u5176\u4ed6",
+    "category": "📦 其他",
     "skillLearned": {
       "name": "openclaw openclaw skills sherpa onnx tts skill md",
       "path": "openclaw-openclaw-skills-sherpa-onnx-tts-skill-md",
@@ -598,9 +598,9 @@
   {
     "timestamp": "2026-02-26T04:54:27.218Z",
     "hour": 12,
-    "category": "\ud83c\udfac \u89c6\u9891/\u56fe\u7247",
+    "category": "🎬 视频/图片",
     "skillLearned": {
-      "name": "\u672a\u627e\u5230\u65b0\u6280\u80fd",
+      "name": "未找到新技能",
       "stars": "-",
       "link": "",
       "path": ""
@@ -610,9 +610,9 @@
   {
     "timestamp": "2026-02-26T05:04:28.040Z",
     "hour": 13,
-    "category": "\u270d\ufe0f \u5185\u5bb9\u521b\u4f5c",
+    "category": "✍️ 内容创作",
     "skillLearned": {
-      "name": "\u672a\u627e\u5230\u65b0\u6280\u80fd",
+      "name": "未找到新技能",
       "stars": "-",
       "link": "",
       "path": ""
@@ -622,9 +622,9 @@
   {
     "timestamp": "2026-02-26T05:10:17.954Z",
     "hour": 13,
-    "category": "\u270d\ufe0f \u5185\u5bb9\u521b\u4f5c",
+    "category": "✍️ 内容创作",
     "skillLearned": {
-      "name": "\u672a\u627e\u5230\u65b0\u6280\u80fd",
+      "name": "未找到新技能",
       "stars": "-",
       "link": "",
       "path": ""
@@ -634,9 +634,9 @@
   {
     "timestamp": "2026-02-26T05:11:32.620Z",
     "hour": 13,
-    "category": "\u270d\ufe0f \u5185\u5bb9\u521b\u4f5c",
+    "category": "✍️ 内容创作",
     "skillLearned": {
-      "name": "\u672a\u627e\u5230\u65b0\u6280\u80fd",
+      "name": "未找到新技能",
       "stars": "-",
       "link": "",
       "path": ""
@@ -646,7 +646,7 @@
   {
     "timestamp": "2026-02-26T05:13:39.808Z",
     "hour": 13,
-    "category": "\ud83d\udce6 \u5176\u4ed6",
+    "category": "📦 其他",
     "skillLearned": {
       "name": "sonoscli.md",
       "path": "openclaw-openclaw-skills-sonoscli-skill-md",
@@ -661,9 +661,9 @@
   {
     "timestamp": "2026-02-26T05:22:33.599Z",
     "hour": 13,
-    "category": "\u270d\ufe0f \u5185\u5bb9\u521b\u4f5c",
+    "category": "✍️ 内容创作",
     "skillLearned": {
-      "name": "\u672a\u627e\u5230\u65b0\u6280\u80fd",
+      "name": "未找到新技能",
       "stars": "-",
       "link": "",
       "path": ""
@@ -673,9 +673,9 @@
   {
     "timestamp": "2026-02-26T05:26:02.612Z",
     "hour": 13,
-    "category": "\u270d\ufe0f \u5185\u5bb9\u521b\u4f5c",
+    "category": "✍️ 内容创作",
     "skillLearned": {
-      "name": "\u672a\u627e\u5230\u65b0\u6280\u80fd",
+      "name": "未找到新技能",
       "stars": "-",
       "link": "",
       "path": ""
@@ -685,9 +685,9 @@
   {
     "timestamp": "2026-02-26T05:30:03.394Z",
     "hour": 13,
-    "category": "\u270d\ufe0f \u5185\u5bb9\u521b\u4f5c",
+    "category": "✍️ 内容创作",
     "skillLearned": {
-      "name": "\u672a\u627e\u5230\u65b0\u6280\u80fd",
+      "name": "未找到新技能",
       "stars": "-",
       "link": "",
       "path": ""
@@ -699,7 +699,7 @@
     "hour": 14,
     "category": "",
     "skillLearned": {
-      "name": "\u672a\u627e\u5230\u65b0\u6280\u80fd",
+      "name": "未找到新技能",
       "stars": "-",
       "link": "",
       "path": ""
@@ -711,7 +711,7 @@
     "hour": 14,
     "category": "",
     "skillLearned": {
-      "name": "\u672a\u627e\u5230\u65b0\u6280\u80fd",
+      "name": "未找到新技能",
       "stars": "-",
       "link": "",
       "path": ""
@@ -723,7 +723,7 @@
     "hour": 14,
     "category": "",
     "skillLearned": {
-      "name": "\u672a\u627e\u5230\u65b0\u6280\u80fd",
+      "name": "未找到新技能",
       "stars": "-",
       "link": "",
       "path": ""
@@ -733,9 +733,9 @@
   {
     "timestamp": "2026-02-26T06:26:37.163Z",
     "hour": 14,
-    "category": "\ud83c\udfac \u89c6\u9891/\u56fe\u7247",
+    "category": "🎬 视频/图片",
     "skillLearned": {
-      "name": "\u672a\u627e\u5230\u65b0\u6280\u80fd",
+      "name": "未找到新技能",
       "stars": "-",
       "link": "",
       "path": ""
@@ -800,22 +800,22 @@
   {
     "timestamp": "2026-02-26T16:26:23.206445",
     "hour": 16,
-    "category": "\ud83d\udd10 \u5b89\u5168",
+    "category": "🔐 安全",
     "skillLearned": {
       "name": "pycryptodome",
       "link": "https://github.com/pycryptodome",
-      "description": "\u52a0\u5bc6\u5de5\u5177\u96c6",
+      "description": "加密工具集",
       "stars": "2.8k",
       "source": "github"
     },
-    "details": "\u52a0\u5bc6\u5de5\u5177\u96c6"
+    "details": "加密工具集"
   },
   {
     "timestamp": "2026-02-26T18:25:19.883063",
     "hour": 18,
-    "category": "\u270d\ufe0f \u5185\u5bb9\u521b\u4f5c",
+    "category": "✍️ 内容创作",
     "skillLearned": {
-      "name": "`\uf8ff App Store`",
+      "name": "` App Store`",
       "url": "https://apps.apple.com/app/owncloud/id1359583808",
       "description": "<a href='https://owncloud.com/wp-content/uploads/2019/05/ownCloud-iOS-app-store-parent-file-listing.png'>`Screenshot 1`</a>",
       "source": "github"
@@ -824,25 +824,92 @@
   {
     "timestamp": "2026-02-26T18:35:59.528478",
     "hour": 18,
-    "category": "\u270d\ufe0f \u5185\u5bb9\u521b\u4f5c",
+    "category": "✍️ 内容创作",
     "skillLearned": {
-      "name": "\u70ed\u70b9\u8bdd\u9898\u8ffd\u8e2a",
-      "description": "\u5b9e\u65f6\u8ffd\u8e2aAI\u9886\u57df\u70ed\u70b9\u8bdd\u9898",
+      "name": "热点话题追踪",
+      "description": "实时追踪AI领域热点话题",
       "priority": 5,
       "source": "openclaw-custom"
     },
-    "details": "# \u70ed\u70b9\u8bdd\u9898\u8ffd\u8e2a\n\n## \u7c7b\u522b\n\u270d\ufe0f \u5185\u5bb9\u521b\u4f5c\n\n## \u63cf\u8ff0\n\u5b9e\u65f6\u8ffd\u8e2aAI\u9886\u57df\u70ed\u70b9\u8bdd\u9898\n\n## \u4f18\u5148\u7ea7\n\u2b50\u2b50\u2b50\u2b50\u2b50\n\n## \u5b66\u4e60\u5efa\u8bae\n1. \u67e5\u9605OpenClaw\u6587\u6863\u76f8\u5173\u7ae0\u8282\n2. \u641c\u7d22\u76f8\u5173\u6280\u80fd\u5b9e\u73b0\u6848\u4f8b\n3. \u5728\u5b9e\u9645\u9879\u76ee\u4e2d\u5c1d\u8bd5\u5e94\u7528\n4. \u8bb0\u5f55\u9047\u5230\u7684\u95ee\u9898\u548c\u89e3\u51b3\u65b9\u6848\n\n## \u76f8\u5173\u5de5\u5177\n- OpenClaw CLI\n- Python\u811a\u672c\n- \u76f8\u5173API\u63a5\u53e3\n"
+    "details": "# 热点话题追踪\n\n## 类别\n✍️ 内容创作\n\n## 描述\n实时追踪AI领域热点话题\n\n## 优先级\n⭐⭐⭐⭐⭐\n\n## 学习建议\n1. 查阅OpenClaw文档相关章节\n2. 搜索相关技能实现案例\n3. 在实际项目中尝试应用\n4. 记录遇到的问题和解决方案\n\n## 相关工具\n- OpenClaw CLI\n- Python脚本\n- 相关API接口\n"
   },
   {
     "timestamp": "2026-02-26T18:54:19.820147",
     "hour": 18,
-    "category": "\u270d\ufe0f \u5185\u5bb9\u521b\u4f5c",
+    "category": "✍️ 内容创作",
     "skillLearned": {
       "name": "postproxy",
       "url": "https://github.com/openclaw/skills/tree/main/skills/danbaranov/postproxy/SKILL.md",
       "description": "Call PostProxy API to create and manage social media posts.",
       "source": "awesome-openclaw-skills"
     },
-    "details": "# postproxy\n\n## \u7c7b\u522b\n\u270d\ufe0f \u5185\u5bb9\u521b\u4f5c\n\n## \u63cf\u8ff0\nCall PostProxy API to create and manage social media posts.\n\n## \u6765\u6e90\n\u5b98\u65b9\u6280\u80fd\u5e93: https://github.com/VoltAgent/awesome-openclaw-skills\n\n## \u5b89\u88c5\u65b9\u5f0f\n```bash\nnpx clawhub@latest install postproxy\n```\n\n\u6216\u8005\u76f4\u63a5\u590d\u5236\u6280\u80fd\u6587\u4ef6\u5939\u5230:\n- Global: `~/.openclaw/skills/`\n- Workspace: `<project>/skills/`\n\n## \u5b98\u65b9\u94fe\u63a5\nhttps://github.com/openclaw/skills/tree/main/skills/danbaranov/postproxy/SKILL.md\n"
+    "details": "# postproxy\n\n## 类别\n✍️ 内容创作\n\n## 描述\nCall PostProxy API to create and manage social media posts.\n\n## 来源\n官方技能库: https://github.com/VoltAgent/awesome-openclaw-skills\n\n## 安装方式\n```bash\nnpx clawhub@latest install postproxy\n```\n\n或者直接复制技能文件夹到:\n- Global: `~/.openclaw/skills/`\n- Workspace: `<project>/skills/`\n\n## 官方链接\nhttps://github.com/openclaw/skills/tree/main/skills/danbaranov/postproxy/SKILL.md\n"
+  },
+  {
+    "timestamp": "2026-02-26T19:00:03.032714",
+    "hour": 19,
+    "category": "📊 数据分析",
+    "skillLearned": {
+      "name": "adversarial-prompting",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/abe238/adversarial-prompting/SKILL.md",
+      "description": "Adversarial analysis to critique, fix.",
+      "source": "awesome-openclaw-skills"
+    },
+    "details": "# adversarial-prompting\n\n## 类别\n📊 数据分析\n\n## 描述\nAdversarial analysis to critique, fix.\n\n## 来源\n官方技能库: https://github.com/VoltAgent/awesome-openclaw-skills\n\n## 安装方式\n```bash\nnpx clawhub@latest install adversarial-prompting\n```\n\n或者直接复制技能文件夹到:\n- Global: `~/.openclaw/skills/`\n- Workspace: `<project>/skills/`\n\n## 官方链接\nhttps://github.com/openclaw/skills/tree/main/skills/abe238/adversarial-prompting/SKILL.md\n"
+  },
+  {
+    "timestamp": "2026-02-26T11:00:50.688Z",
+    "hour": 19,
+    "category": "video_image",
+    "skillLearned": {
+      "name": "extract-errors.md\n243.4k\n1\n2\n3\n4\nexport extract-errors\nfrom \"facebook/react\"\nUse when adding new error messages to React, or seeing \"unknown error code\" warnings.\n2026-01-24",
+      "stars": "",
+      "link": "https://skillsmp.com/skills/facebook-react-claude-skills-extract-errors-skill-md",
+      "description": "skillsmp.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot."
+    }
+  },
+  {
+    "timestamp": "2026-02-26T11:00:54.478Z",
+    "hour": 19,
+    "category": "video_image",
+    "skillLearned": {
+      "name": "flow.md\n243.4k\n1\n2\n3\n4\nexport flow\nfrom \"facebook/react\"\nUse when you need to run Flow type checking, or when seeing Flow type errors in React code.\n2026-01-24",
+      "stars": "",
+      "link": "https://skillsmp.com/skills/facebook-react-claude-skills-flow-skill-md",
+      "description": "skillsmp.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot."
+    }
+  },
+  {
+    "timestamp": "2026-02-26T11:00:58.244Z",
+    "hour": 19,
+    "category": "video_image",
+    "skillLearned": {
+      "name": "model-usage.md\n227.3k\n1\n2\n3\n4\nexport model-usage\nfrom \"openclaw/openclaw\"\nUse CodexBar CLI local cost usage to summarize per-model usage for Codex or Claude, including the current (most recent) model or a full model breakdown. Trigger when asked for model-level usage/cost data from codexbar, or when you need a scriptable per-model summary from codexbar cost JSON.\n2026-02-23",
+      "stars": "",
+      "link": "https://skillsmp.com/skills/openclaw-openclaw-skills-model-usage-skill-md",
+      "description": "skillsmp.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot."
+    }
+  },
+  {
+    "timestamp": "2026-02-26T11:01:02.005Z",
+    "hour": 19,
+    "category": "video_image",
+    "skillLearned": {
+      "name": "sonoscli.md\n227.3k\n1\n2\n3\n4\nexport sonoscli\nfrom \"openclaw/openclaw\"\nControl Sonos speakers (discover/status/play/volume/group).\n2026-02-21",
+      "stars": "",
+      "link": "https://skillsmp.com/skills/openclaw-openclaw-skills-sonoscli-skill-md",
+      "description": "skillsmp.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot."
+    }
+  },
+  {
+    "timestamp": "2026-02-26T11:01:05.790Z",
+    "hour": 19,
+    "category": "video_image",
+    "skillLearned": {
+      "name": "feishu-drive.md\n227.3k\n1\n2\n3\n4\nexport feishu-drive\nfrom \"openclaw/openclaw\"\nFeishu cloud storage file management. Activate when user mentions cloud space, folders, drive.\n2026-02-06",
+      "stars": "",
+      "link": "https://skillsmp.com/skills/openclaw-openclaw-extensions-feishu-skills-feishu-drive-skill-md",
+      "description": "skillsmp.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot."
+    }
   }
 ]

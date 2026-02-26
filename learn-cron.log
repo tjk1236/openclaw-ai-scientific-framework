@@ -593,3 +593,149 @@
 [2026-02-26 18:00:02] 技能学习完成
 ---
 [2026-02-26 19:00:01] 开始技能学习...
+
+[2026/2/26 19:00:01] 📚 开始技能学习...
+  → 已学习技能: 50 个
+  → 尝试访问: https://skillsmp.com/skills
+[2026-02-26 19:00:01] [INFO] ============================================================
+[2026-02-26 19:00:01] [INFO] 🎓 官方OpenClaw技能学习
+[2026-02-26 19:00:01] [INFO] ============================================================
+[2026-02-26 19:00:01] [INFO] ⏰ 当前时间: 19:00
+[2026-02-26 19:00:01] [INFO] 📥 获取官方技能列表...
+[2026-02-26 19:00:03] [INFO] 📚 官方技能库: 2872 个技能
+[2026-02-26 19:00:03] [INFO] ✅ 已学习: 37 个
+[2026-02-26 19:00:03] [INFO] 📖 待学习: 2835 个
+[2026-02-26 19:00:03] [INFO]   → 已记录技能: adversarial-prompting
+[2026-02-26 19:00:03] [INFO] 
+[2026-02-26 19:00:03] [INFO] ============================================================
+[2026-02-26 19:00:03] [INFO] 🎉 技能学习完成
+[2026-02-26 19:00:03] [INFO] ============================================================
+[2026-02-26 19:00:03] [INFO] 📚 技能: adversarial-prompting
+[2026-02-26 19:00:03] [INFO] 📂 类别: 📊 数据分析
+[2026-02-26 19:00:03] [INFO] 📝 描述: Adversarial analysis to critique, fix....
+[2026-02-26 19:00:03] [INFO] 🔗 来源: 官方 awesome-openclaw-skills
+[2026-02-26 19:00:03] [INFO] 
+[2026-02-26 19:00:03] [INFO] 💡 安装命令:
+[2026-02-26 19:00:03] [INFO]    npx clawhub@latest install adversarial-prompting
+[2026-02-26 19:00:03] [INFO] 
+[2026-02-26 19:00:03] [INFO] 📚 这是来自官方2868技能库的专业技能！
+[2026-02-26 19:00:03] [INFO] ============================================================
+[2026-02-26 19:00:03] [WARN]   ⚠️ 通知发送失败: [Errno 2] No such file or directory: 'openclaw'
+[2026-02-26 19:00:03] [INFO] 
+✅ 完成！
+  → 尝试访问: https://skillsmp.com/zh
+    找到 12 个技能
+  → 尝试访问: https://skillsmp.com
+    找到 12 个技能
+  → 去重后共 12 个技能
+  → 未学习的新技能: 7 个
+
+  📖 学习: extract-errors.md
+243.4k
+1
+2
+3
+4
+export extract-errors
+from "facebook/react"
+Use when adding new error messages to React, or seeing "unknown error code" warnings.
+2026-01-24
+    ✅ 已记录: extract-errors.md
+243.4k
+1
+2
+3
+4
+export extract-errors
+from "facebook/react"
+Use when adding new error messages to React, or seeing "unknown error code" warnings.
+2026-01-24 (video_image)
+
+  📖 学习: flow.md
+243.4k
+1
+2
+3
+4
+export flow
+from "facebook/react"
+Use when you need to run Flow type checking, or when seeing Flow type errors in React code.
+2026-01-24
+    ✅ 已记录: flow.md
+243.4k
+1
+2
+3
+4
+export flow
+from "facebook/react"
+Use when you need to run Flow type checking, or when seeing Flow type errors in React code.
+2026-01-24 (video_image)
+
+  📖 学习: model-usage.md
+227.3k
+1
+2
+3
+4
+export model-usage
+from "openclaw/openclaw"
+Use CodexBar CLI local cost usage to summarize per-model usage for Codex or Claude, including the current (most recent) model or a full model breakdown. Trigger when asked for model-level usage/cost data from codexbar, or when you need a scriptable per-model summary from codexbar cost JSON.
+2026-02-23
+    ✅ 已记录: model-usage.md
+227.3k
+1
+2
+3
+4
+export model-usage
+from "openclaw/openclaw"
+Use CodexBar CLI local cost usage to summarize per-model usage for Codex or Claude, including the current (most recent) model or a full model breakdown. Trigger when asked for model-level usage/cost data from codexbar, or when you need a scriptable per-model summary from codexbar cost JSON.
+2026-02-23 (video_image)
+
+  📖 学习: sonoscli.md
+227.3k
+1
+2
+3
+4
+export sonoscli
+from "openclaw/openclaw"
+Control Sonos speakers (discover/status/play/volume/group).
+2026-02-21
+    ✅ 已记录: sonoscli.md
+227.3k
+1
+2
+3
+4
+export sonoscli
+from "openclaw/openclaw"
+Control Sonos speakers (discover/status/play/volume/group).
+2026-02-21 (video_image)
+
+  📖 学习: feishu-drive.md
+227.3k
+1
+2
+3
+4
+export feishu-drive
+from "openclaw/openclaw"
+Feishu cloud storage file management. Activate when user mentions cloud space, folders, drive.
+2026-02-06
+    ✅ 已记录: feishu-drive.md
+227.3k
+1
+2
+3
+4
+export feishu-drive
+from "openclaw/openclaw"
+Feishu cloud storage file management. Activate when user mentions cloud space, folders, drive.
+2026-02-06 (video_image)
+
+[2026/2/26 19:01:05] ✅ 学习完成
+
+[2026-02-26 19:01:06] 技能学习完成
+---
