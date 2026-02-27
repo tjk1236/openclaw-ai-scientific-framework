@@ -1,0 +1,11 @@
+{
+  "installed": [],
+  "failed": [
+    {
+      "name": "tavily-search",
+      "error": "[Errno 2] No such file or directory: 'clawhub'",
+      "time": "2026-02-27T15:20:04.024496"
+    }
+  ],
+  "current_index": 1
+}
