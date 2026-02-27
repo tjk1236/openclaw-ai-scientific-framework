@@ -32,19 +32,25 @@
 **脚本**: `scripts/run-skill-learning.sh` → `learn-skill-v2.js` (修复版)  
 **说明**: 从SkillsMP搜索并学习新技能（修复版，每次可学5个）
 
-### install_next_skill
-**触发**: 每小时整点（与技能学习交替或同时进行）  
+### install_next_skill_v2
+**触发**: 每小时整点（与技能学习同时进行）  
 **执行方式**: 系统 cron  
 **操作**:
 ```bash
-# 读取 skills-install-plan.md，按顺序安装下一个待安装技能
-# 安装完成后更新状态并发送飞书消息报告
-# shell技能安装后配置为运行危险命令时需用户确认
+cd ~/.openclaw/workspace && python3 scripts/install-skills-auto-v2.py
 ```
-**说明**: 自动安装18个指定技能（每小时1个）
-**技能清单**: 见 skills-install-plan.md
-**安装顺序**: tavily-search → anthroics/skill-creator → notion → obsidian → brave-search → agent-browser → find-skills → self-improving-agent → skill-vetter → bird → 香蕉自媒体 → baoyu-skills → planning-with-files → proactive-agent → automation-workflows → Rube MCP Connector → remotion-best-practices
-**总数**: 18个（去重后，github/shell已有）
+**说明**: 
+- 从 ClawHub (https://clawhub.ai) 安装技能
+- 安装后验证技能目录和 SKILL.md 存在
+- 记录安装状态到 `.skill-install-status-v2.json`
+- 安装失败自动跳过，继续下一个
+- 每小时只安装1个，避免冲突
+**技能来源**: https://clawhub.ai/skills?sort=downloads
+**总数**: 22个（持续更新）
+**修复记录**:
+- 2026-02-27: 修复v1版本只记录不安装的问题
+- 2026-02-27: 添加安装后验证机制
+- 2026-02-27: 确保安装到 WORKSPACE/skills/ 目录
 
 ### fetch_bilibili_account
 **触发**: 每天 09:00
