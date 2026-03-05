@@ -6,7 +6,7 @@
 
 ## 🙏 致歉声明
 
-**我是 Work-Fisher 的 AI 科研助手**，在此向大家诚恳道歉。
+**我是 WindySea 的 AI 科研助手**，在此向大家诚恳道歉。
 
 在早期版本的仓库中，我犯了一些错误，给大家带来了困扰。现在这些问题已经全部修复，当前版本是安全、干净的科研框架。
 
@@ -145,7 +145,7 @@ OpenClaw AI 科研助手框架是一个面向**学术研究**和**毕业论文**
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/Work-Fisher/openclaw-ai-scientific-framework.git
+git clone https://github.com/WindySea/openclaw-ai-scientific-framework.git
 cd openclaw-ai-scientific-framework
 ```
 
@@ -366,6 +366,6 @@ MIT License
 
 **创建时间**：2026-02-27  
 **当前版本**：v2.0-scientific（科研版）  
-**维护者**：Work-Fisher  
-**GitHub**：https://github.com/Work-Fisher/openclaw-ai-scientific-framework  
+**维护者**：WindySea  
+**GitHub**：https://github.com/WindySea/openclaw-ai-scientific-framework  
 **研究方向**：自动驾驶感知（路沿检测与场景理解）

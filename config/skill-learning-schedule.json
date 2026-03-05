@@ -1,7 +1,7 @@
 {
   "version": "2.0-scientific",
   "updated": "2026-03-05",
-  "user_identity": "AI 科研助手（自动驾驶感知方向）",
+  "user_identity": "WindySea 的 AI 科研助手",
   "research_direction": "路沿检测与场景理解",
   "degree": "硕士研究生（电子信息，2026 年 6 月毕业）",
   "schedule": {
@@ -73,7 +73,7 @@
       "name": "📝 论文写作 Agent",
       "capabilities": [
         "论文结构规划",
-        章节撰写（引言/方法/实验/结论）",
+        "章节撰写（引言/方法/实验/结论）",
         "图表制作与优化",
         "LaTeX 排版",
         "审稿意见回复"
@@ -84,29 +84,34 @@
   },
   "graduation_milestones": {
     "literature_review": {
-      "target_date": "2026-03-31",
-      "status": "in_progress",
-      "deliverable": "文献综述章节（40-50 篇核心文献）"
+      "target_date": "2026-03-10",
+      "status": "completed",
+      "deliverable": "文献综述章节（40-50 篇核心文献）✅"
     },
     "innovation_defined": {
-      "target_date": "2026-04-15",
-      "status": "pending",
-      "deliverable": "创新点确定 + 技术方案"
+      "target_date": "2026-03-15",
+      "status": "in_progress",
+      "deliverable": "创新点确定 + 技术方案（YOLO+SAM 自动提示）"
     },
     "experiments_complete": {
-      "target_date": "2026-05-15",
+      "target_date": "2026-03-25",
       "status": "pending",
-      "deliverable": "完整实验 + 对比分析"
+      "deliverable": "完整实验 + 对比分析 + 消融实验"
     },
     "thesis_draft": {
-      "target_date": "2026-05-31",
+      "target_date": "2026-03-31",
       "status": "pending",
-      "deliverable": "论文初稿"
+      "deliverable": "毕业论文初稿（完整稿）"
+    },
+    "revision_period": {
+      "target_date": "2026-04-01 - 2026-06-10",
+      "status": "pending",
+      "deliverable": "论文修改 + 审稿意见回复"
     },
     "defense": {
       "target_date": "2026-06-15",
       "status": "pending",
-      "deliverable": "毕业答辩"
+      "deliverable": "毕业答辩 PPT+ 系统演示"
     }
   }
 }
