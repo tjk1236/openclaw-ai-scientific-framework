@@ -170,30 +170,36 @@ chmod +x install.sh
 ```json
 {
   "version": 2,
+  "provider": "aliyun-bailian",
   "pools": {
     "fast": {
       "name": "高速池",
-      "primary": "bailian/qwen3.5-plus",
-      "fallback": "bailian/qwen3.5-plus"
+      "primary": "bailian/glm-4.7",
+      "fallback": "bailian/glm-4.7"
     },
     "smart": {
       "name": "智能池",
-      "primary": "bailian/qwen3.5-plus",
-      "fallback": "bailian/qwen3.5-plus"
+      "primary": "bailian/glm-5",
+      "fallback": "bailian/glm-5"
     },
     "text": {
       "name": "文本池",
-      "primary": "bailian/qwen3.5-plus",
-      "fallback": "bailian/qwen3.5-plus"
+      "primary": "bailian/glm-5",
+      "fallback": "bailian/glm-4.7"
     },
     "vision": {
       "name": "视觉池",
-      "primary": "bailian/qwen3.5-plus",
-      "fallback": "bailian/qwen3.5-plus"
+      "primary": "moonshot/kimi-k2.5",
+      "fallback": "bailian/glm-4v"
     }
   }
 }
 ```
+
+**模型说明**:
+- **GLM-5**: 复杂推理、代码编写、深度思考 ⭐
+- **GLM-4.7**: 快速响应、日常会话
+- **Kimi K2.5**: 图像理解、图表分析（256K 超长上下文）
 
 ### 4. 配置科研学习计划
 

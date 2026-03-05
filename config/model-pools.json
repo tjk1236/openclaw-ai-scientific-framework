@@ -1,25 +1,48 @@
 {
   "version": 2,
+  "updated": "2026-03-05T22:47:00+08:00",
+  "provider": "aliyun-bailian",
+  "api_key": "sk-sp-1ef5f4c6028241d799ddf2fc9d462e6d",
   "pools": {
     "fast": {
       "name": "高速池",
-      "primary": "zai/glm-4.7",
-      "fallback": "zai/glm-4.7"
+      "primary": "bailian/glm-4.7",
+      "fallback": "bailian/glm-4.7",
+      "description": "智谱 GLM-4.7 - 快速响应、日常会话",
+      "max_tokens": 32000,
+      "context_window": 128000
     },
     "smart": {
       "name": "智能池",
-      "primary": "zai/glm-5",
-      "fallback": "zai/glm-5"
+      "primary": "bailian/glm-5",
+      "fallback": "bailian/glm-5",
+      "description": "智谱 GLM-5 - 复杂推理、代码编写、深度思考 ⭐",
+      "max_tokens": 32000,
+      "context_window": 128000
     },
     "text": {
       "name": "文本池",
-      "primary": "zai/glm-5",
-      "fallback": "zai/glm-4.7"
+      "primary": "bailian/glm-5",
+      "fallback": "bailian/glm-4.7",
+      "description": "GLM-5 (主) / GLM-4.7 (备) - 长文本处理、文献分析",
+      "max_tokens": 32000,
+      "context_window": 128000
     },
     "vision": {
       "name": "视觉池",
-      "primary": "zai/glm-4.6v",
-      "fallback": "zai/glm-4.6v"
+      "primary": "moonshot/kimi-k2.5",
+      "fallback": "bailian/glm-4v",
+      "description": "Kimi K2.5 (主) / GLM-4V (备) - 图像理解、图表分析",
+      "max_tokens": 8000,
+      "context_window": 256000
     }
+  },
+  "routing_rules": {
+    "default": "fast",
+    "complex_reasoning": "smart",
+    "code_writing": "smart",
+    "literature_review": "text",
+    "image_analysis": "vision",
+    "long_context": "text"
   }
 }
