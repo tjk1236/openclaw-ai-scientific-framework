@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-05T22:47:00+08:00",
+  "updated": "2026-03-05T23:08:00+08:00",
   "provider": "aliyun-bailian",
   "api_key": "sk-sp-1ef5f4c6028241d799ddf2fc9d462e6d",
   "pools": {
@@ -30,9 +30,9 @@
     },
     "vision": {
       "name": "视觉池",
-      "primary": "moonshot/kimi-k2.5",
+      "primary": "bailian/kimi-k2.5",
       "fallback": "bailian/glm-4v",
-      "description": "Kimi K2.5 (主) / GLM-4V (备) - 图像理解、图表分析",
+      "description": "Kimi K2.5 (主) / GLM-4V (备) - 图像理解、图表分析 (256K 上下文)",
       "max_tokens": 8000,
       "context_window": 256000
     }
@@ -43,6 +43,11 @@
     "code_writing": "smart",
     "literature_review": "text",
     "image_analysis": "vision",
-    "long_context": "text"
+    "long_context": "text",
+    "web_search": "fast"
+  },
+  "search": {
+    "provider": "serper",
+    "api_key": "1c66040cd6b739832599c93e16723a6fe5e92810"
   }
 }
